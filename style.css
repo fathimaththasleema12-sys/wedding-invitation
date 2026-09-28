@@ -389,20 +389,22 @@ section {
     display: block;
 
     font-family:
-        "Cormorant Garamound",
+        'Cormorant Garamound',
         serif;
 
     font-size:
-        32pt;
+        1.6rem;
 
     line-height:
-        1.05;
+        1.2;
 
     font-weight:
-        400;
-
-    white-space:nowrap;
-        text-transform:none    
+        500;
+   
+    white-space:normal;
+   text-align:center;
+   word-wrap:break-word;
+   padding:0 10px;
 }
 
 
