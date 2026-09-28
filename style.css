@@ -45,15 +45,10 @@ html {
 
 body {
 
-    background: var(--ivory);
+   body {
+    background: red !important;
+}
 
-    color: var(--brown);
-
-    font-family:
-        "Poppins",
-        sans-serif;
-
-    overflow-x: hidden;
 }
 
 
